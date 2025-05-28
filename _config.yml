@@ -10,12 +10,12 @@ url: "https://jcrcuevas.github.io/jcrcuevas"
 # Owner/author information
 owner:
   name:           John Cuevas
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  avatar:         https://res.cloudinary.com/dd9pbhgko/image/upload/v1748406995/IMG_20250210_072153_1_eppana.jpg
+  bio:            "I’m a DIY enthusiast who loves figuring things out and building projects, whether it’s coding websites, setting up tech systems, or creating practical solutions from scratch."
   email:          johncuevas1989@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
+  facebook:    profile.php?id=100065047840730   
   github:         
   stackexchange:  
   linkedin:       
