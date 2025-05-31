@@ -1,6 +1,6 @@
 ---
-layout: post-index
-title: Latest Posts
+layout: home
+title: Web Artisan
 description: "Describe this nonsense."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
@@ -10,6 +10,24 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
+
+<!-- Paginator SECTION -->
+{% if page.layout == "home" %}
+<article>
+  <div>
+    <p>The personal website and portfolio of <a href="{{ site.url }}/about">John Cuevas</a> </p>
+
+    <p>Front-End Developer with over a decade of experience building responsive websites, <b>HTML Email</b> templates, <b>WordPress</b>  and <b>Responsive Development</b> themes. Passionate about clean code, automation, and real-world problem-solving — from marketing systems to DIY tech builds.</p>
+    
+  </div>
+
+  <a href="{{ site.url }}/play-ground"><span class="btn">Visit Play Ground</a></span>
+  <a href="mailto:{{ site.owner.email }}"><span class="btn">Request My CV</a></span>
+
+</article>
+
+
+{% elsif page.layout == "post-index" %}
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
@@ -40,3 +58,5 @@ image:
 {% endfor %}
 
 {% include pagination.html %}
+
+{% endif %}
