@@ -37,3 +37,26 @@ This solution greatly improved our efficiency, reduced human error, and ensured 
 <a href="https://fleximanila.gitlab.io/"><span class="btn">View Demo</span></a>
 
 ---
+
+## WordPress Web Projects for Marketing Agencies
+
+I’ve had the opportunity to collaborate with several marketing agencies in building custom websites for their clients using [WordPress](https://wordpress.com/), particularly with the Kadence Theme.
+
+My responsibilities included:
+
+- Developing websites from scratch based on [Figma](https://www.figma.com/) or Photoshop designs.
+- Translating static designs into fully functional CMS-powered websites using WordPress.
+- Ensuring pixel-perfect implementation aligned with the design specs.
+- Implementing [Stripe](https://stripe.com/) online payment integration for one of their e-commerce sites.
+- Performing regular plugin updates, ongoing site maintenance, and occasional troubleshooting (e.g., page recovery, conflict resolution, and responsiveness issues).
+
+Below is a list of websites I’ve built and maintained as part of these collaborations.
+
+- [BJS Development](https://bjs.com.ph/)
+- [Holiday Homes](https://holidayhomes.com.ph/)
+- [Pool Protect](https://poolprotect.com.au/)
+- [Altitude BCM](https://altitudebcm.com.au/)
+- [Appliance Compliance](https://appliancecompliance.au/)
+- [Discount Grocery Warehouse](https://discountgrocerywarehouse.com.au/)
+
+---
